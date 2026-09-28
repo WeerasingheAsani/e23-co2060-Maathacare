@@ -97,8 +97,8 @@ MaathaCare successfully digitizes the maternal healthcare journey in Sri Lanka, 
   
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/
-- [Project Page](https://cepdnaclk.github.io/
+- Project Repository : https://github.com/cepdnaclk/e23-co2060-Maathacare
+- Project Page : https://cepdnaclk.github.io/e23-co2060-Maathacare/
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
