@@ -8,13 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b49cef77-4569-4145-8cfe-db880e7efb99" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/data_sources_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/data_sources_history.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Frontend/MaathaCare-Frontend/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/code/Frontend/MaathaCare-Frontend/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Frontend/MaathaCare-Frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/code/Frontend/MaathaCare-Frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Frontend/MaathaCare-Frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/code/Frontend/MaathaCare-Frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="1926" />
+    <option name="cachedIndexableFilesCount" value="1927" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,23 +46,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.1409683376737587" />
-      <entry key="MS500" value="2.7146010572381876" />
-      <entry key="S2" value="5.703157935327429" />
-      <entry key="S5" value="11.824904017052312" />
-      <entry key="S10" value="22.957745937326195" />
-      <entry key="S30" value="46.37656010433538" />
-      <entry key="S60" value="57.649407032448394" />
-      <entry key="M2" value="64.71951149564372" />
-      <entry key="M5" value="69.6695568780861" />
-      <entry key="M10" value="73.92772433937805" />
-      <entry key="M15" value="79.05792594502324" />
-      <entry key="M30" value="91.9567731007892" />
-      <entry key="H1" value="104.87668040754457" />
-      <entry key="H2" value="114.14059485975422" />
-      <entry key="H4" value="119.70726531369077" />
-      <entry key="D1" value="125.8655771826947" />
-      <entry key="W1" value="128.39391011338807" />
+      <entry key="MS100" value="1.0708179433546925" />
+      <entry key="MS500" value="2.55696897036485" />
+      <entry key="S2" value="5.963166952470674" />
+      <entry key="S5" value="12.185490121453366" />
+      <entry key="S10" value="23.3284174257761" />
+      <entry key="S30" value="46.948862536092015" />
+      <entry key="S60" value="58.3829618487208" />
+      <entry key="M2" value="65.56977731711817" />
+      <entry key="M5" value="70.60503745812231" />
+      <entry key="M10" value="74.89348500361729" />
+      <entry key="M15" value="80.03351381469962" />
+      <entry key="M30" value="92.9425744355355" />
+      <entry key="H1" value="105.86858330760273" />
+      <entry key="H2" value="115.13618861024443" />
+      <entry key="H4" value="120.70495471959264" />
+      <entry key="D1" value="126.86517226909426" />
+      <entry key="W1" value="129.3938511065455" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -90,23 +84,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0242079185903121" />
-      <entry key="MS500" value="2.6596586708807837" />
-      <entry key="S2" value="5.664004684035264" />
-      <entry key="S5" value="11.782299672351932" />
-      <entry key="S10" value="22.917857037836782" />
-      <entry key="S30" value="46.35133547607324" />
-      <entry key="S60" value="57.63392513222964" />
-      <entry key="M2" value="64.71086426730953" />
-      <entry key="M5" value="69.66584271339747" />
-      <entry key="M10" value="73.92575408523875" />
-      <entry key="M15" value="79.05651928114837" />
-      <entry key="M30" value="91.95595113490698" />
-      <entry key="H1" value="104.87620953142508" />
-      <entry key="H2" value="114.14033786283278" />
-      <entry key="H4" value="119.70713028818702" />
-      <entry key="D1" value="125.86555175583206" />
-      <entry key="W1" value="128.39390600711837" />
+      <entry key="MS100" value="0.1256391058222663" />
+      <entry key="MS500" value="2.0990100838187695" />
+      <entry key="S2" value="5.799342784115749" />
+      <entry key="S5" value="12.091116046977437" />
+      <entry key="S10" value="23.26220950997487" />
+      <entry key="S30" value="46.914648257559605" />
+      <entry key="S60" value="58.362929683035624" />
+      <entry key="M2" value="65.55883650854112" />
+      <entry key="M5" value="70.60040065538209" />
+      <entry key="M10" value="74.89105251591307" />
+      <entry key="M15" value="80.03179879729319" />
+      <entry key="M30" value="92.94159819070289" />
+      <entry key="H1" value="105.86803526192392" />
+      <entry key="H2" value="115.13589301954204" />
+      <entry key="H4" value="120.70480039465787" />
+      <entry key="D1" value="126.86514362528133" />
+      <entry key="W1" value="129.39384654070102" />
     </decayedShown>
   </component>
   <component name="PackageJsonUpdateNotifier">
@@ -138,7 +132,7 @@
     "Spring Boot.BackendApplication.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "Merging UI-Editing",
+    "git-widget-placeholder": "UI-Editing",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -153,6 +147,10 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" value="local" />
+      <envs>
+        <env name="FIREBASE_SERVICE_ACCOUNT_JSON" value="{   &quot;type&quot;: &quot;service_account&quot;,   &quot;project_id&quot;: &quot;maathacare-3d62c&quot;,   &quot;private_key_id&quot;: &quot;54da8d21a16e6a6d3e63fb141dba81857967dbaa&quot;,   &quot;private_key&quot;: &quot;-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDSJiY7xuJXH+39\ndHXgIttN9YAU8rOHrJ4sihQvjvN+hOhpxLhxJAIOpvKlvasMvui3aK3tHuNafViO\nSbGHWrCs85qghLV0tL97Zn4hEjet1OTqqC2bhXQL1AlLjqr6Xx3nW+9aS9EbdM39\n81WuwzjY0PzKlFQnMq8zrcCN9g3GgYlFknq1QGGTxX8rBogvyUUiUDekw+Xh5wcN\nO0SfmfTRN9+MM1Y0Mqke0sXuA7zI0GGawaLZ4s+VtgrTHyFZfU4HFKf0VCDc69Ut\nNQOwWoHEhwd9yTxGDJS76R+VEAPzqBaa0Yny93Y7GCJk5wlti1INgfY4z7zcEVwM\nIJatkwtbAgMBAAECggEAQnrwGHQD8XT36Hj5u1S7lO+Hu9jFo7OffE6YMS1jaVBp\nZ+BkSuKNxg3ZcEZOwOL6It96OivN17gUljrI7x1pC+WqsoIZF1kAxGx5lUO6moLh\ngjx+5Ra0TfOflygEfd0uTB0g3KtkdO+gJOjgX7+BkdGXTwzajGXz2ADtC9vdosCP\ns5ddYQhwx/bEUHgXm9nr4XUBjXIGoWTL/7VLcI0DcYoI1tHd9rp0razQTwqjVgF5\nJ7lKjGXb+a2xBaX8MK29jHtKZjbFz/RMCtAmngy75919cwxC3QGe9JJ0EGVjI5vM\nOEWYudGlygEV3hhWmIVoF4p3BzGng5yBt6cwnbCWFQKBgQD6+UlUHKqy2JSkBN7e\nijCWNaQcnSwU5ImwdwuwPYZA9x93hDd7Na/0mnQCHjACo9FpFPzwPP4X+QMw79s4\ntwfqUEXVx1L4bRJQhRWSXBdoXQsDcn02diU+MBezNd0DHPuiYAP1jK0FHAJGfcoW\nNaufee3OS1UKX7hQc07xBlnF1wKBgQDWW48h0AKGMdcENvxwOWrTt1Zn44+wyz1g\nm1f2DkqzFfH5t9Nk/dnYLpWNV2mOcBXIAwymo63+VvGuJEBfgrtZYFN+NgEA10xC\ng7tI4Bo0OOwcb8lg17t6srI03UbTwcadaJv9uIpx9yLAa60W3jRPKLubMSrfXdep\nUB3PmZ0uHQKBgGreqkYB6wI7TZhGZqz2xVfBQb/ZgcLnymX1W2nR2RBi6uhWydVS\neDm9Z3bbafBF189aW5blMgH9TEmTaZNOBTXWttYgiYk10N2uvg/T3TfYnu752q3N\nQ3CmxADRB+ridZigMC9oluidE672s44fjpRbNFNrKqw/NFo1r8Dcxm+DAoGADLDP\nAIl4HMnGmRFIULyVfoNUMkJet3DQ6W9I/eBKu9+Iu+gOM+RziUD4ya1rKmuoXncP\nwK3gFza+iDjNNtpejSQOzWIVHR+h/C4gYGgkJQNZtzVHDty21MTPmCGhl9fZEmin\nE5ZhW+3tuManMLtnDWiz8rQufZrosbV0jl3h2GECgYAin9vSs+iSvd9vmTDy0Sd4\nPVWR6LmB8lJLLD0RzscUtrBDrWTdpY33iEdjBJyiQGDzqKnltSdeHA8VVzSGZnMO\nMcEDxTRa3PDsOjZe01oCpmtwa1fveyoqxGXz2EmSkhLhPoXOwmFi4tlKO4ZWCgvO\nsZr8upnkEpe0dvahQtdmfw==\n-----END PRIVATE KEY-----\n&quot;,   &quot;client_email&quot;: &quot;firebase-adminsdk-fbsvc@maathacare-3d62c.iam.gserviceaccount.com&quot;,   &quot;client_id&quot;: &quot;115369245305248476119&quot;,   &quot;auth_uri&quot;: &quot;https://accounts.google.com/o/oauth2/auth&quot;,   &quot;token_uri&quot;: &quot;https://oauth2.googleapis.com/token&quot;,   &quot;auth_provider_x509_cert_url&quot;: &quot;https://www.googleapis.com/oauth2/v1/certs&quot;,   &quot;client_x509_cert_url&quot;: &quot;https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40maathacare-3d62c.iam.gserviceaccount.com&quot;,   &quot;universe_domain&quot;: &quot;googleapis.com&quot; }" />
+      </envs>
       <module name="Backend" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.Maathacare.Backend.BackendApplication" />
       <method v="2">
@@ -177,6 +175,7 @@
       <updated>1783398364326</updated>
       <workItem from="1783398371536" duration="38013000" />
       <workItem from="1790364304681" duration="2537000" />
+      <workItem from="1791021455451" duration="1887000" />
     </task>
     <servers />
   </component>
