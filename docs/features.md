@@ -18,18 +18,40 @@ Explore the key capabilities described in the MaathaCare project. Replace the sc
 
 ## Mother mobile application
 
-<div class="placeholder">
-  <code>docs/images/mother-dashboard.jpeg</code></div>
 
-Add a concise caption describing what your real screenshot demonstrates.
+<div class="screenshot-container">
+  <img
+    src="{{ '/images/mother-dashboard.png' | relative_url }}"
+    alt="MaathaCare Mother Dashboard"
+    class="feature-screenshot"
+    loading="lazy"
+  >
+</div>
+
 
 ## Public Health Midwife portal
 
-<div class="placeholder">Add a screenshot of the PHM interface here.</div>
+
+<div class="screenshot-container">
+  <img
+    src="{{ '/images/phm-dashboard.png' | relative_url }}"
+    alt="MaathaCare phm Dashboard"
+    class="feature-screenshot"
+    loading="lazy"
+  >
+</div>
 
 ## Administrative web portal
 
-<div class="placeholder">Add a screenshot of the admin interface here.</div>
+
+<div class="screenshot-container">
+  <img
+    src="{{ '/images/admin-dashboard.png' | relative_url }}"
+    alt="MaathaCare Admin Dashboard"
+    class="feature-screenshot"
+    loading="lazy"
+  >
+</div>
 
 ## Planned improvements
 
