@@ -4,3 +4,17 @@
 @media(max-width:950px){.menu-toggle{display:block;border:1px solid var(--border);background:white;border-radius:9px;padding:9px 11px;font-weight:700}.nav{display:none;position:absolute;top:76px;left:0;right:0;background:white;padding:14px 20px;box-shadow:var(--shadow);flex-direction:column;align-items:stretch}.nav.open{display:flex}.nav a{padding:8px}.hero{gap:24px}}
 @media(max-width:680px){.grid-3,.grid-2,.hero{grid-template-columns:1fr}.hero{padding:10px 0 30px}.hero-visual{max-width:520px}.page-content{padding-top:30px}.footer-grid{flex-direction:column}.soft-section{padding:20px}.flow{align-items:stretch;flex-direction:column}.flow b{text-align:center}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+.screenshot-container {
+  display: flex;
+  justify-content: center;
+  margin: 24px 0;
+}
+
+.feature-screenshot {
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+}
