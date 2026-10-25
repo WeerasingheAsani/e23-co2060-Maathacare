@@ -18,7 +18,8 @@ Explore the key capabilities described in the MaathaCare project. Replace the sc
 
 ## Mother mobile application
 
-<div class="placeholder">Add a screenshot of the mother dashboard here. Suggested file: <code>docs/images/mother-dashboard.png</code></div>
+<div class="placeholder">
+  <code>docs/images/mother-dashboard.jpeg</code></div>
 
 Add a concise caption describing what your real screenshot demonstrates.
 
