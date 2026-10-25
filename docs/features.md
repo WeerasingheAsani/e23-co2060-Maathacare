@@ -20,12 +20,9 @@ Explore the key capabilities described in the MaathaCare project. Replace the sc
 
 
 <div class="screenshot-container">
-  <img
-    src="{{ '/images/mother-dashboard.jpeg' | relative_url }}"
-    alt="MaathaCare Mother Dashboard"
-    class="feature-screenshot"
-    loading="lazy"
-  >
+  
+<img src="{{ '/images/mother-dashboard.jpeg' | relative_url }}" alt="MaathaCare Mother Dashboard" class="feature-screenshot">
+
 </div>
 
 
@@ -33,24 +30,18 @@ Explore the key capabilities described in the MaathaCare project. Replace the sc
 
 
 <div class="screenshot-container">
-  <img
-    src="{{ '/images/phm-dashboard.jpeg' | relative_url }}"
-    alt="MaathaCare phm Dashboard"
-    class="feature-screenshot"
-    loading="lazy"
-  >
+  
+<img src="{{ '/images/phm-dashboard.jpeg' | relative_url }}" alt="MaathaCare PHM Dashboard" class="feature-screenshot">
+
 </div>
 
 ## Administrative web portal
 
 
 <div class="screenshot-container">
-  <img
-    src="{{ '/images/admin-dashboard.jpeg' | relative_url }}"
-    alt="MaathaCare Admin Dashboard"
-    class="feature-screenshot"
-    loading="lazy"
-  >
+ 
+<img src="{{ '/images/admin-dashboard.jpeg' | relative_url }}" alt="MaathaCare Admin Dashboard" class="feature-screenshot">
+
 </div>
 
 ## Planned improvements
