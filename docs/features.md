@@ -5,6 +5,7 @@ title: Features
 permalink: /features/
 ---
 
+
 # MaathaCare Platform Features
 
 MaathaCare is a digital maternal healthcare platform designed to connect pregnant mothers, Public Health Midwives (PHMs), and healthcare administrators.
